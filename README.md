@@ -1,5 +1,5 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+## DATE: 23.04.2025
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
@@ -23,6 +23,7 @@ To create the solid model from given drawing and section the solid model
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
+
 ![image](https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png)
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
@@ -42,6 +43,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![WhatsApp Image 2025-04-23 at 10 36 35_720c7a73](https://github.com/user-attachments/assets/6dc1fbc4-b798-4e71-bc16-238bfa7434d8)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
